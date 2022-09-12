@@ -1,13 +1,16 @@
 /* TODO: Label selector type */
+/* font family for entire page */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 /* TODO: Label selector type */
+/* main body background */
 body {
   background-color: lemonchiffon;
 }
 
+/* text and background color of header/footer. adjusts width, height and line height of header and footer */
 header,
 footer {
   width: 100%;
@@ -17,17 +20,18 @@ footer {
   background-color: #191970;
 }
 
+/* background color and width for caption of student image */
 figure {
   width: 200px;
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* adjusts font weight for line below student image */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* sets background color for contact section */
 #contact-section {
   background-color: #f0ead6;
 }
