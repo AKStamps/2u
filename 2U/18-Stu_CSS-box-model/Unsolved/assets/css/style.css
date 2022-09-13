@@ -12,4 +12,8 @@ img {
   /* TODO: Add a margin property */
   /* TODO: Add a padding property */
   /* TODO: Add a border property */
+  margin: 5px;
+  padding: 10px;
+  border: 10px solid;
+  border-color: brown;
 }
