@@ -97,11 +97,16 @@ textarea {
 }
   
 button {
+  position: relative;
+  left: 200px;
+  top: 5px;
+  
   height: 40px;
   width: 120px;
   background-color: #4F4846;
   color: #FDF8F5;
 }
+  
  
 /* Class Selectors */
 .text-center {
